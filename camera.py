@@ -8,7 +8,7 @@ import ssl
 from abuseipdb_wrapper import AbuseIPDB
 import subprocess, socket
 
-import secrets
+import project_secrets
 
 PAGE="""\
 <html>
